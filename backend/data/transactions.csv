@@ -1,0 +1,4 @@
+transaction_id,amount,currency,merchant,risk_score
+1,100.50,USD,Amazon,0.1
+2,2500.00,EUR,Unknown,0.85
+3,50.00,USD,Starbucks,0.05
