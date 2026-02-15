@@ -1,0 +1,15 @@
+# Large data files
+backend/data/creditcard.csv
+fraud_model.pkl
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Frontend artifacts
+frontend/node_modules/
+frontend/dist/
+.eslintcache
